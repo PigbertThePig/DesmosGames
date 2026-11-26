@@ -1,5 +1,5 @@
 # Desmos Games
-Desmos Games is an HTML game website for school that is consistently updated. It currently has over 60 games, along with other useful resources.  
+Desmos Games is an HTML game website that is consistently updated. It currently has over 60 games, along with other useful resources.  
 Download Link (Chromebook): [Desmos Games Link](https://tinyurl.com/pigbertgames2)
 ## How To Use (Read First!)
 1. Go to the download link.
